@@ -1,2 +1,8 @@
 # things-keith-has-taught-me
-Gag for now, serious later
+
+## OS X
+
+control-command-space: 💥 Emoji and symbol lookup 💥
+
+�and �
+
