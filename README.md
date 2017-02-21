@@ -8,4 +8,4 @@ control-command-space: 💥 Emoji and symbol lookup 💥
 
 ## Front-end development
 
-Front end development is simply the best, and way more rewarding than back-end work, if only because you can poke the stuff you make with your fingers or a mouse.
+> "Front end development is simply the best, and way more rewarding than back-end work, if only because you can poke the stuff you make with your fingers or a mouse." - Keith
